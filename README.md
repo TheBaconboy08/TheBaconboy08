@@ -1,16 +1,41 @@
-## Hello im Baconboy08 👋
+<div align="center">
+  
+![Aurora Background](https://github.com/TheBaconboy08/TheBaconboy08/assets/your-image-url-here)
 
-<!--
-**TheBaconboy08/TheBaconboy08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  
+## Hello, I'm Baconboy08 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<div align="center">
+  
+### 🔍 Reverse Engineering & Programming Enthusiast
+
+</div>
+
+---
+
+### 🔭 Current Focus
+- **Reverse Engineering**: Binary analysis, and protocol dissecting
+- **Programming**: Low-level systems programming and security tools development
+
+### 🌱 Currently Learning
+- Advanced x86/x64 Assembly
+- Windows Internals & API Hooking
+- Firmware Analysis Techniques
+- Modern C++ for Systems Programming
+
+### 😄 Pronouns
+He/Him
+
+
+---
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=TheBaconboy08&style=flat-square)
+  
+</div>
