@@ -1,6 +1,6 @@
-<div align="center" style="background-image: url('https://raw.githubusercontent.com/TheBaconboy08/TheBaconboy08/main/aurora-bg.jpg'); background-size: cover; background-position: center; padding: 40px; border-radius: 15px; color: white; margin: 20px auto; max-width: 800px; min-height: 400px; box-shadow: 0 8px 32px rgba(0,0,0,0.3); position: relative; overflow: hidden;">
+<div align="center" style="background-image: url('https://raw.githubusercontent.com/TheBaconboy08/TheBaconboy08/main/aurora-bg.jpg'); background-size: cover; background-position: center; padding: 40px; border-radius: 15px; color: white; margin: 20px auto; max-width: 800px; min-height: 300px; box-shadow: 0 8px 32px rgba(0,0,0,0.3); position: relative; overflow: hidden;">
 
-  <!-- Overlay for better text readability -->
+  <!-- Dark overlay for text readability -->
   <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)); z-index: 1;"></div>
 
   <!-- Content -->
