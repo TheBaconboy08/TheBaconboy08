@@ -1,10 +1,18 @@
-<!-- In your README.md -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TheBaconboy08/TheBaconboy08/main/Background.jpg" alt="Aurora Background" width="100%">
+  <img src="https://raw.githubusercontent.com/TheBaconboy08/TheBaconboy08/main/Background.jpg" alt="Aurora Background" style="width: 100%; max-width: 1536px; height: auto; border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); margin-bottom: 20px;">
+  
+  <h1>👋 Hello, I'm Baconboy08</h1>
+  <p style="font-size: 1.2em; color: #e9e9e9;">Reverse Engineering & Programming Enthusiast</p>
+  
+  <div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0;">
+    <a href="https://twitter.com/yourhandle" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    </a>
+    <a href="https://linkedin.com/in/yourprofile" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+  </div>
 </div>
-## Hello, I'm Baconboy08 👋
-
-### 🔍 Reverse Engineering & Programming Enthusiast
 
 ---
 
@@ -20,9 +28,3 @@
 
 ### 😄 Pronouns
 He/Him
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=TheBaconboy08&style=flat-square)
-
-</div>
