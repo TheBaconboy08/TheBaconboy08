@@ -1,3 +1,4 @@
+<img src="https://i.imgur.com/3AL6qTq.gif" width="1280px" />
 <div align="center">
   <h1>Baconboy08</h1>
   <p style="font-size: 1.3em;">Reverse Engineering & Programming Enthusiast</p>
