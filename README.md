@@ -1,26 +1,17 @@
-<img src="https://github.com/TheBaconboy08/TheBaconboy08/blob/bb0b2fd65eb3002f9a9a1ce890847eaf53253ef1/aurora-bg.jpg" width="840px" />
 <div align="center">
-  <h1>Baconboy08</h1>
-  <p style="font-size: 1.3em;">Reverse Engineering & Programming Enthusiast</p>
+  
+![Background](https://raw.githubusercontent.com/yourusername/yourrepo/main/background.jpg)
+
+<h1 style="position: relative; z-index: 2; color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.8); 
+           background: rgba(0,0,0,0.6); padding: 20px; border-radius: 10px;">
+  Welcome to My GitHub Profile
+</h1>
+
 </div>
 
----
+## About Me
 
-### 🔭 Current Focus
-- **Reverse Engineering**: Binary analysis, protocol dissecting
-- **Programming**: Low-level systems programming and security tools development
-
-### 🌱 Currently Learning
-- Advanced x86/x64 Assembly
-- Windows Internals & API Hooking
-- Firmware Analysis Techniques
-- Modern C++ for Systems Programming
-
-### 😄 Pronouns
-He/Him
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheBaconboy08&style=flat-square" alt="Profile Views" />
-</div>
+<p style="position: relative; z-index: 2; color: white; background: rgba(0,0,0,0.7); 
+          padding: 15px; border-radius: 8px;">
+  I'm a passionate developer who loves creating amazing projects!
+</p>
