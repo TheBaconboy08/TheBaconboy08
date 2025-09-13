@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TheBaconboy08/TheBaconboy08/main/banner.jpg" alt="Aurora Profile Banner" style="width: 100%; max-width: 1536px; height: auto; border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.3); margin-bottom: 20px;">
-</div>
-
-<div align="center">
-  <h1>Hello, I'm Baconboy08 👋</h1>
+  <h1>Baconboy08</h1>
   <p style="font-size: 1.3em;">Reverse Engineering & Programming Enthusiast</p>
 </div>
 
