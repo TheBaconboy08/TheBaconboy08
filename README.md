@@ -1,4 +1,4 @@
-<img src="https://github.com/TheBaconboy08/TheBaconboy08/blob/bb0b2fd65eb3002f9a9a1ce890847eaf53253ef1/aurora-bg.jpg" width="630px" />
+<img src="https://github.com/TheBaconboy08/TheBaconboy08/blob/bb0b2fd65eb3002f9a9a1ce890847eaf53253ef1/aurora-bg.jpg" width="840px" />
 <div align="center">
   <h1>Baconboy08</h1>
   <p style="font-size: 1.3em;">Reverse Engineering & Programming Enthusiast</p>
