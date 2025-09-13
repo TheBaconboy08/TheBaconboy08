@@ -1,20 +1,8 @@
-<div align="center">
-  
-![Aurora Background](https://github.com/TheBaconboy08/TheBaconboy08/Background.jpg)
-
-</div>
-
-<div align="center">
+<div align="center" style="background: url('https://github.com/TheBaconboy08/TheBaconboy08/raw/main/Background.jpg') center/cover no-repeat; padding: 40px; border-radius: 15px; backdrop-filter: blur(5px);">
   
 ## Hello, I'm Baconboy08 👋
 
-</div>
-
-<div align="center">
-  
 ### 🔍 Reverse Engineering & Programming Enthusiast
-
-</div>
 
 ---
 
@@ -31,11 +19,8 @@
 ### 😄 Pronouns
 He/Him
 
-
 ---
 
-<div align="center">
-  
 ![Profile Views](https://komarev.com/ghpvc/?username=TheBaconboy08&style=flat-square)
-  
+
 </div>
