@@ -1,5 +1,7 @@
-<div align="center" style="background: url('https://github.com/TheBaconboy08/TheBaconboy08/raw/main/Background.jpg') center/cover no-repeat; padding: 40px; border-radius: 15px; backdrop-filter: blur(5px);">
-  
+<!-- In your README.md -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TheBaconboy08/TheBaconboy08/main/Background.jpg" alt="Aurora Background" width="100%">
+</div>
 ## Hello, I'm Baconboy08 👋
 
 ### 🔍 Reverse Engineering & Programming Enthusiast
